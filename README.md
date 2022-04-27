@@ -1,11 +1,22 @@
-# Getting Started with Create React App and Redux
+# Budget Blast & Getting Started with Create React App and Redux/toolkit
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
-## Available Scripts
+## Table of Contents
 
-In the project directory, you can run:
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Contact](#contact)
 
+## General Info
+
+The Budget Blast is an expense tracking project I took on through the Codecademy Pro platform. This project helped me practice refactoring with Redux Toolkit using createSlice and configureStore methods. It is a slice-based approach to produce the app's actions and reducers, as opposed to declaring action creators and reducers in separate files. At the end of the day you have less code and faster setups of Redux in every scenario.
+
+## Technologies Used
+* HTML5/CSS3
+* Redux Toolkit
+* React-Redux
+* VS Code
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -39,8 +50,6 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Contact
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Created by [Melissa](https://twitter.com/misathemeb)  feel free to send a DM if you have questions!
